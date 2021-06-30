@@ -1,3 +1,4 @@
+# Basic ignores
 .idea
 .cache
 .parcel-cache
