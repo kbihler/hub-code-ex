@@ -4,3 +4,8 @@
 .DS_Store
 dist
 node_modules
+
+# Firebase Hosting
+.firebase/
+.firebaserc
+firebase-debug.log
